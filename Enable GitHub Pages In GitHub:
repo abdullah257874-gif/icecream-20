@@ -1,0 +1,5 @@
+Go to your repository
+Open Settings
+Select Pages
+Under Source, choose GitHub Actions
+The included workflow in .github/workflows/deploy.yml will deploy automatically after the push.
